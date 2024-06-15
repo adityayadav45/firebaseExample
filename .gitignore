@@ -1,0 +1,5 @@
+.qtcreator/
+.ropeproject/
+__pycache__/
+firebasetest.pyproject
+firebasetest.pyproject.user
